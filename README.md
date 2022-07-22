@@ -746,3 +746,4 @@ The *minio-persistent-storage* volume will live as long as the persistent volume
 ## Where to go from here
 
 This was hopefully just the beginning of your journey. There are many more things to explore around Kubernetes. Feel free to leave feedback or raise questions at any time by opening an issue [here](https://github.com/hobby-kube/guide/issues).
+[15 Kubernetes Best Practices](https://spacelift.io/blog/kubernetes-best-practices)
